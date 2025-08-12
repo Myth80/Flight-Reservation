@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      "type": "java",
+      "name": "Launch AirlineReservationSystem",
+      "request": "launch",
+      "mainClass": "AirlineReservationSystem",
+      "classPaths": [
+        "C:/Users/ASAP/Desktop/payroll/lib/mysql-connector-j-9.4.0.jar"
+      ]
+    }
+  ]
+}
