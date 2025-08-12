@@ -8,8 +8,9 @@
       "request": "launch",
       "mainClass": "AirlineReservationSystem",
       "classPaths": [
-        "C:/Users/ASAP/Desktop/payroll/lib/mysql-connector-j-9.4.0.jar"
+        "lib/mysql-connector-j-9.4.0.jar"
       ]
     }
   ]
 }
+
